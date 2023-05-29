@@ -1,4 +1,4 @@
 I want to change the file. and merge the banches 
-I want to mege main and dev
+I want to merge main and dev
 
 
